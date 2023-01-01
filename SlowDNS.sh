@@ -832,7 +832,7 @@ DATA_C(){
 }
 
 menu_udp(){
-	title "SlowDNS configuration script BY Hasibul Islam"
+	title "slowDNS configuration script BY @Rufu99"
   
 	if [[ $(type -p dns-server) ]]; then
     print_center -ama "Ports: 53 5300"
