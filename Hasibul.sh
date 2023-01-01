@@ -627,7 +627,7 @@ EOF
 
 cat <<EOF > /etc/systemd/system/slowdns.service
 [Unit]
-Description=DNSTT Service by @Rufu99
+Description=DNSTT Service by Hasibul Islam
 After=network.target
 StartLimitIntervalSec=0
 
